@@ -16,6 +16,7 @@ For making the model interpretable and ensuring that the features are universall
 (https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
 ## RMSE:
-Boosting with Hyptertuned Parameters (all variables): 3.686
-Boosting with top 10 variables (tuned model): 3.703
-Random Forests with all variables: 3.727
+1. Boosting with Hyptertuned Parameters (all variables): 3.686
+2. Boosting with top 10 variables (tuned model): 3.703
+3. Random Forest with all variables: 3.727
+4. Random Forest with top 10 variables: 3.741
