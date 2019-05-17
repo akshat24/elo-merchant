@@ -15,7 +15,7 @@ For making the model interpretable and ensuring that the features are universall
 <strong>SHAP</strong> scores are consistent across models and offer reliable feature selection, better than gain and split. 
 (https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
-##RMSE:
+## RMSE:
 Boosting with Hyptertuned Parameters (all variables): 3.686
 Boosting with top 10 variables (tuned model): 3.703
 Random Forests with all variables: 3.727
